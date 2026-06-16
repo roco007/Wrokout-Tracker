@@ -1,0 +1,15 @@
+{
+  "name": "Month 1 Workout Tracker",
+  "short_name": "Workout Tracker",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f6f4ef",
+  "theme_color": "#0f766e",
+  "icons": [
+    {
+      "src": "assets/workout-mark.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

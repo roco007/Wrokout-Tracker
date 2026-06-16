@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="Workout tracker mark">
+  <rect width="96" height="96" rx="18" fill="#18202a"/>
+  <path d="M19 54h10m38 0h10M29 43v22m38-22v22M37 48h22v12H37z" fill="none" stroke="#f6f4ef" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M31 26h34M31 76h20" fill="none" stroke="#f9735b" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="67" cy="74" r="6" fill="#14b8a6"/>
+</svg>
