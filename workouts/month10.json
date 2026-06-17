@@ -1,0 +1,482 @@
+[
+    {
+        "day": "Monday",
+        "focus": "Abs, push, shoulders, triceps, cardio",
+        "tasks": [
+            {
+                "exercise": "Hanging Leg Raise",
+                "target": "Lower Abs",
+                "sets": "3",
+                "reps": "12",
+                "weight": "Bodyweight",
+                "tutorial": "assets/Hanging Leg Raise.webm"
+            },
+            {
+                "exercise": "Weighted Cable Crunch",
+                "target": "Upper Abs",
+                "sets": "4",
+                "reps": "15",
+                "weight": "25-35 kg",
+                "tutorial": "assets/Cable Crunch.webm"
+            },
+            {
+                "exercise": "Ab Wheel Rollout",
+                "target": "Entire Core",
+                "sets": "3",
+                "reps": "10",
+                "weight": "Bodyweight",
+                "tutorial": "assets/Ab Wheel Rollout.webm"
+            },
+            {
+                "exercise": "Incline Barbell Bench Press",
+                "target": "Upper Chest",
+                "sets": "4",
+                "reps": "8",
+                "weight": "40-50 kg",
+                "tutorial": "assets/Incline Barbell Bench Press.webm"
+            },
+            {
+                "exercise": "Flat Dumbbell Bench Press",
+                "target": "Chest",
+                "sets": "3",
+                "reps": "10",
+                "weight": "17.5-20 kg each",
+                "tutorial": "assets/Flat Dumbbell Bench Press.webm"
+            },
+            {
+                "exercise": "Seated Dumbbell Shoulder Press",
+                "target": "Anterior Deltoids",
+                "sets": "4",
+                "reps": "10",
+                "weight": "12.5-15 kg each",
+                "tutorial": "assets/Seated Dumbbell Shoulder Press.webm"
+            },
+            {
+                "exercise": "Cable Lateral Raise",
+                "target": "Lateral Deltoids",
+                "sets": "4",
+                "reps": "15",
+                "weight": "7.5-10 kg",
+                "tutorial": "assets/Cable Lateral Raise.webm"
+            },
+            {
+                "exercise": "Rear Delt Machine Fly",
+                "target": "Rear Deltoids",
+                "sets": "3",
+                "reps": "15",
+                "weight": "20-30 kg",
+                "tutorial": "assets/Rear Delt Fly Machine.webm"
+            },
+            {
+                "exercise": "Machine Chest Press",
+                "target": "Chest",
+                "sets": "3",
+                "reps": "12",
+                "weight": "45-55 kg",
+                "tutorial": "assets/Machine Chest Press.webm"
+            },
+            {
+                "exercise": "Pec Deck Fly",
+                "target": "Chest",
+                "sets": "3",
+                "reps": "15",
+                "weight": "35-45 kg",
+                "tutorial": "assets/Pec Deck Fly.webm"
+            },
+            {
+                "exercise": "Weighted Bench Dips",
+                "target": "Triceps",
+                "sets": "3",
+                "reps": "12",
+                "weight": "10 kg plate",
+                "tutorial": "assets/Bench Dips.webm"
+            },
+            {
+                "exercise": "Single Arm Cable Tricep Pushdown",
+                "target": "Lateral Head Triceps",
+                "sets": "3",
+                "reps": "12",
+                "weight": "12.5-17.5 kg",
+                "tutorial": "assets/Single Arm Cable Tricep Pushdown.webm"
+            },
+            {
+                "exercise": "EZ Bar Skull Crusher",
+                "target": "Long Head Triceps",
+                "sets": "3",
+                "reps": "10",
+                "weight": "20-25 kg",
+                "tutorial": "assets/EZ Bar Skull Crusher.webm"
+            },
+            {
+                "exercise": "Diamond Push-ups",
+                "target": "Chest/Triceps",
+                "sets": "2",
+                "reps": "Failure",
+                "weight": "Bodyweight",
+                "tutorial": "assets/Diamond Push Up.webm"
+            },
+            {
+                "exercise": "Incline Walking",
+                "target": "Cardio/Fat Loss",
+                "sets": "25-30 min",
+                "reps": "HR 130-145 bpm",
+                "weight": "5.5-6 km/h @ 10-12% incline",
+                "tutorial": "assets/incline walking.webm"
+            }
+        ]
+    },
+    {
+        "day": "Wednesday",
+        "focus": "Abs, back, biceps, forearms, cardio",
+        "tasks": [
+            {
+                "exercise": "Weighted Cable Crunch",
+                "target": "Upper Abs",
+                "sets": "4",
+                "reps": "15",
+                "weight": "25-35 kg",
+                "tutorial": "assets/Cable Crunch.webm"
+            },
+            {
+                "exercise": "Hanging Toes-to-Bar",
+                "target": "Lower Abs",
+                "sets": "3",
+                "reps": "10",
+                "weight": "Bodyweight",
+                "tutorial": "assets/Hanging Toes to Bar.webm"
+            },
+            {
+                "exercise": "Weighted Russian Twist",
+                "target": "Obliques",
+                "sets": "3",
+                "reps": "24",
+                "weight": "7.5 kg Plate",
+                "tutorial": "assets/Weighted Russian Twist.webm"
+            },
+            {
+                "exercise": "Wide Grip Pull-up (Assisted if needed)",
+                "target": "Lats",
+                "sets": "4",
+                "reps": "8-10",
+                "weight": "Bodyweight",
+                "tutorial": "assets/Pull Up.webm"
+            },
+            {
+                "exercise": "Barbell Bent Over Row",
+                "target": "Mid Back/Lats",
+                "sets": "4",
+                "reps": "8",
+                "weight": "45-55 kg",
+                "tutorial": "assets/Barbell Bent Over Row.webm"
+            },
+            {
+                "exercise": "Single Arm Dumbbell Row",
+                "target": "Lats",
+                "sets": "3",
+                "reps": "10",
+                "weight": "25-30 kg",
+                "tutorial": "assets/Single Arm Dumbbell Row.webm"
+            },
+            {
+                "exercise": "Close Grip Lat Pulldown",
+                "target": "Lower Lats",
+                "sets": "3",
+                "reps": "12",
+                "weight": "40-50 kg",
+                "tutorial": "assets/Close Grip Lat Pulldown.webm"
+            },
+            {
+                "exercise": "Seated Cable Row",
+                "target": "Mid Back/Rhomboids",
+                "sets": "3",
+                "reps": "12",
+                "weight": "45-55 kg",
+                "tutorial": "assets/Seated Cable Row.webm"
+            },
+            {
+                "exercise": "Straight Arm Cable Pulldown",
+                "target": "Lats",
+                "sets": "3",
+                "reps": "15",
+                "weight": "20-25 kg",
+                "tutorial": "assets/Straight Arm Pulldown.webm"
+            },
+            {
+                "exercise": "Face Pull",
+                "target": "Rear Delts/Upper Back",
+                "sets": "4",
+                "reps": "15",
+                "weight": "20-25 kg",
+                "tutorial": "assets/Face Pull.webm"
+            },
+            {
+                "exercise": "Dumbbell Shrugs",
+                "target": "Upper Traps",
+                "sets": "4",
+                "reps": "15",
+                "weight": "22.5-25 kg each",
+                "tutorial": "assets/Dumbbell Shrugs.webm"
+            },
+            {
+                "exercise": "EZ Bar Curl",
+                "target": "Biceps",
+                "sets": "4",
+                "reps": "10",
+                "weight": "22.5-25 kg",
+                "tutorial": "assets/EZ Bar Curl.webm"
+            },
+            {
+                "exercise": "Incline Dumbbell Curl",
+                "target": "Long Head Biceps",
+                "sets": "3",
+                "reps": "12",
+                "weight": "10-12.5 kg each",
+                "tutorial": "assets/Incline Dumbbell Curl.webm"
+            },
+            {
+                "exercise": "Cross Body Hammer Curl",
+                "target": "Brachialis/Brachioradialis",
+                "sets": "3",
+                "reps": "12",
+                "weight": "12.5 kg",
+                "tutorial": "assets/Cross Body Hammer Curl.webm"
+            },
+            {
+                "exercise": "Reverse EZ Bar Curl",
+                "target": "Forearm Extensors",
+                "sets": "3",
+                "reps": "15",
+                "weight": "15 kg",
+                "tutorial": "assets/Reverse EZ Bar Curl.webm"
+            },
+            {
+                "exercise": "Cable Wrist Curl",
+                "target": "Forearm Flexors",
+                "sets": "3",
+                "reps": "20",
+                "weight": "15-20 kg",
+                "tutorial": "assets/Cable Wrist Curl.webm"
+            },
+            {
+                "exercise": "Cable Reverse Wrist Curl",
+                "target": "Forearm Extensors",
+                "sets": "3",
+                "reps": "20",
+                "weight": "10-15 kg",
+                "tutorial": "assets/Cable Reverse Wrist Curl.webm"
+            },
+            {
+                "exercise": "Dead Hang",
+                "target": "Grip/Lats/Shoulders",
+                "sets": "3",
+                "reps": "Max Time",
+                "weight": "Bodyweight",
+                "tutorial": "assets/Dead Hang.webm"
+            },
+            {
+                "exercise": "Incline Walking",
+                "target": "Cardio/Fat Loss",
+                "sets": "25-30 min",
+                "reps": "HR 130-145 bpm",
+                "weight": "5.5-6 km/h @ 10-12% incline",
+                "tutorial": "assets/incline walking.webm"
+            }
+        ]
+    },
+    {
+        "day": "Friday",
+        "focus": "Abs, legs, glutes, hamstrings, calves, cardio",
+        "tasks": [
+            {
+                "exercise": "Decline Weighted Sit-up",
+                "target": "Upper Abs",
+                "sets": "3",
+                "reps": "15",
+                "weight": "5-10 kg Plate",
+                "tutorial": "assets/Decline Sit Up.webm"
+            },
+            {
+                "exercise": "Cable Woodchopper",
+                "target": "Obliques",
+                "sets": "3",
+                "reps": "15/side",
+                "weight": "15-20 kg",
+                "tutorial": "assets/Cable Woodchopper.webm"
+            },
+            {
+                "exercise": "Weighted Plank",
+                "target": "Core",
+                "sets": "3",
+                "reps": "60 sec",
+                "weight": "10 kg Plate",
+                "tutorial": "assets/Weighted Plank.webm"
+            },
+            {
+                "exercise": "Back Squat",
+                "target": "Quads/Glutes",
+                "sets": "4",
+                "reps": "8",
+                "weight": "45-55 kg",
+                "tutorial": "assets/Back Squat.webm"
+            },
+            {
+                "exercise": "Stiff Leg Deadlift",
+                "target": "Hamstrings/Glutes",
+                "sets": "4",
+                "reps": "10",
+                "weight": "45-50 kg",
+                "tutorial": "assets/Stiff Leg Deadlift.webm"
+            },
+            {
+                "exercise": "Bulgarian Split Squat",
+                "target": "Quads/Glutes",
+                "sets": "3",
+                "reps": "10 each leg",
+                "weight": "12.5 kg DBs",
+                "tutorial": "assets/Bulgarian Split Squat.webm"
+            },
+            {
+                "exercise": "Leg Press",
+                "target": "Quads",
+                "sets": "4",
+                "reps": "12",
+                "weight": "140-180 kg",
+                "tutorial": "assets/Leg Press.webm"
+            },
+            {
+                "exercise": "Walking Lunges",
+                "target": "Quads/Glutes",
+                "sets": "3",
+                "reps": "24 steps",
+                "weight": "12.5 kg DBs",
+                "tutorial": "assets/Walking Lunges.webm"
+            },
+            {
+                "exercise": "Leg Extension",
+                "target": "Quadriceps",
+                "sets": "3",
+                "reps": "15",
+                "weight": "40-50 kg",
+                "tutorial": "assets/Leg Extension.webm"
+            },
+            {
+                "exercise": "Seated Leg Curl",
+                "target": "Hamstrings",
+                "sets": "3",
+                "reps": "15",
+                "weight": "40-50 kg",
+                "tutorial": "assets/Seated Leg Curl.webm"
+            },
+            {
+                "exercise": "Lying Leg Curl",
+                "target": "Hamstrings",
+                "sets": "3",
+                "reps": "12",
+                "weight": "35-45 kg",
+                "tutorial": "assets/Lying Leg Curl.webm"
+            },
+            {
+                "exercise": "Hip Thrust",
+                "target": "Glutes",
+                "sets": "3",
+                "reps": "12",
+                "weight": "50-70 kg",
+                "tutorial": "assets/Hip Thrust.webm"
+            },
+            {
+                "exercise": "Standing Calf Raise",
+                "target": "Gastrocnemius",
+                "sets": "5",
+                "reps": "15",
+                "weight": "Heavy",
+                "tutorial": "assets/Standing Calf Raise.webm"
+            },
+            {
+                "exercise": "Seated Calf Raise",
+                "target": "Soleus",
+                "sets": "4",
+                "reps": "20",
+                "weight": "40-50 kg",
+                "tutorial": "assets/Seated Calf Raise.webm"
+            },
+            {
+                "exercise": "Single Leg Calf Raise",
+                "target": "Calves/Stabilizers",
+                "sets": "3",
+                "reps": "20 each leg",
+                "weight": "Bodyweight",
+                "tutorial": "assets/Single Leg Calf Raise.webm"
+            },
+            {
+                "exercise": "Incline Walking",
+                "target": "Cardio/Fat Loss",
+                "sets": "30 min",
+                "reps": "HR 130-145 bpm",
+                "weight": "5.5-6 km/h @ 10-12% incline",
+                "tutorial": "assets/incline walking.webm"
+            }
+        ]
+    },
+    {
+        "day": "Forearms",
+        "focus": "Grip, wrist flexors, wrist extensors",
+        "tasks": [
+            {
+                "exercise": "Heavy Farmer's Walk",
+                "target": "Forearms/Grip/Traps",
+                "sets": "4",
+                "reps": "50 m",
+                "weight": "30-35 kg each",
+                "tutorial": "assets/Farmer's Walk.webm"
+            },
+            {
+                "exercise": "Barbell Wrist Curl",
+                "target": "Forearm Flexors",
+                "sets": "4",
+                "reps": "20",
+                "weight": "20-25 kg",
+                "tutorial": "assets/Wrist Curl.webm"
+            },
+            {
+                "exercise": "Barbell Reverse Wrist Curl",
+                "target": "Forearm Extensors",
+                "sets": "4",
+                "reps": "20",
+                "weight": "15-20 kg",
+                "tutorial": "assets/Reverse Wrist Curl.webm"
+            },
+            {
+                "exercise": "Plate Pinch Hold",
+                "target": "Grip/Thumb Strength",
+                "sets": "4",
+                "reps": "40 sec",
+                "weight": "10 kg Plates",
+                "tutorial": "assets/PLATE_PINCH_HOLD.webm"
+            },
+            {
+                "exercise": "Wrist Roller",
+                "target": "Forearm Flexors/Extensors",
+                "sets": "4",
+                "reps": "Until Failure",
+                "weight": "7.5-10 kg",
+                "tutorial": "assets/Wrist_Roller_Strengthening.webm"
+            },
+            {
+                "exercise": "Dead Hang",
+                "target": "Grip/Lats/Shoulders",
+                "sets": "3",
+                "reps": "Max Time",
+                "weight": "Bodyweight",
+                "tutorial": "assets/Dead Hang.webm"
+            },
+            {
+                "exercise": "Towel Dead Hang",
+                "target": "Crushing Grip/Forearms",
+                "sets": "3",
+                "reps": "30-45 sec",
+                "weight": "Bodyweight",
+                "tutorial": "assets/Towel Dead Hang.webm"
+            }
+        ]
+    }
+]
