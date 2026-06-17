@@ -3,64 +3,64 @@ const workouts = [
     day: "Monday",
     focus: "Abs, push, shoulders, triceps, cardio",
     tasks: [
-      { exercise: "Hanging Knee Raises", target: "Lower Abs/Hip Flexors", sets: "3", reps: "12", weight: "Bodyweight", tutorial: "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXh4bnJ3ZjN3ejg1NmRwN3RmdWJ5ZzNzejJzejU2Y3VvOXA1dGpvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9JCkIMm28EjjCML4h1/giphy.gif" },
-      { exercise: "Cable Crunch", target: "Upper Abs", sets: "3", reps: "15", weight: "20-30 kg", tutorial: "assets/Cable Crunch.gif" },
-      { exercise: "Plank", target: "Core", sets: "3", reps: "45 sec", weight: "Bodyweight", tutorial: "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzg3aGZ5MG9udGtvejFweHRyNHIycG0xbmhuMzV3MDU4bTB5b201ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZcteOOkovIh9HaVFjT/giphy.gif" },
-      { exercise: "Barbell Bench Press", target: "Chest", sets: "4", reps: "8", weight: "35-45 kg", tutorial: "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmRlcjRnaWEzMnlkYndldXp3YjVwMjRlMmY2dzkzZTVnOXU4ZjM0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7b9b3NkJmADcdpK/giphy.gif" },
-      { exercise: "Incline Dumbbell Press", target: "Upper Chest", sets: "3", reps: "10", weight: "12.5-15 kg each", tutorial: "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWd1NHF0a2FvN3FncHNyM2J5NjdjZzEyemFiMnZucWI2Y2c4Y3NsciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9yCgVNO31uoiJvPykh/giphy.gif" },
-      { exercise: "Standing Overhead Press", target: "Front Shoulders", sets: "3", reps: "10", weight: "20-25 kg", tutorial: "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWp3aG41dnJtbnYwZjdidmo5M2R6c2dnZndhbzliMW9ubHZmeDQ0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IBB1YKqMUCE4Ao/giphy.gif" },
-      { exercise: "Dumbbell Lateral Raise", target: "Side Shoulders", sets: "4", reps: "15", weight: "5-7.5 kg", tutorial: "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2g5M2h4Mno5dGZ6eHA1a2o5MmJ0eHA5aTNlenE3aHZuZHJremd4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rmlERmsODCF0l13Sqe/giphy.gif" },
-      { exercise: "Cable Chest Fly", target: "Chest", sets: "3", reps: "15", weight: "Light", tutorial: "assets/Cable Chest Fly.gif" },
-      { exercise: "Rope Tricep Pushdown", target: "Triceps", sets: "3", reps: "12", weight: "20-30 kg", tutorial: "assets/Rope Tricep Pushdown.gif" },
-      { exercise: "Overhead Rope Extension", target: "Long Head Triceps", sets: "3", reps: "12", weight: "Light", tutorial: "assets/Overhead Rope Extension.gif" },
-      { exercise: "Incline Walk", target: "Cardio/Fat Loss", sets: "20-25 min", reps: "HR 130-145 bpm", weight: "5-6 km/h @ 10-12% incline", tutorial: "assets/incline walking.gif" }
+      { exercise: "Hanging Knee Raises", target: "Lower Abs/Hip Flexors", sets: "3", reps: "12", weight: "Bodyweight", tutorial: "assets/Hanging Knee Raises.webm" },
+      { exercise: "Cable Crunch", target: "Upper Abs", sets: "3", reps: "15", weight: "20-30 kg", tutorial: "assets/Cable Crunch.webm" },
+      { exercise: "Plank", target: "Core", sets: "3", reps: "45 sec", weight: "Bodyweight", tutorial: "assets/Plank.webm" },
+      { exercise: "Barbell Bench Press", target: "Chest", sets: "4", reps: "8", weight: "35-45 kg", tutorial: "assets/Barbell Bench Press.webm" },
+      { exercise: "Incline Dumbbell Press", target: "Upper Chest", sets: "3", reps: "10", weight: "12.5-15 kg each", tutorial: "assets/Incline Dumbbell Press.webm" },
+      { exercise: "Standing Overhead Press", target: "Front Shoulders", sets: "3", reps: "10", weight: "20-25 kg", tutorial: "assets/Standing Overhead Press.webm" },
+      { exercise: "Dumbbell Lateral Raise", target: "Side Shoulders", sets: "4", reps: "15", weight: "5-7.5 kg", tutorial: "assets/Dumbbell Lateral Raise.webm" },
+      { exercise: "Cable Chest Fly", target: "Chest", sets: "3", reps: "15", weight: "Light", tutorial: "assets/Cable Chest Fly.webm" },
+      { exercise: "Rope Tricep Pushdown", target: "Triceps", sets: "3", reps: "12", weight: "20-30 kg", tutorial: "assets/Rope Tricep Pushdown.webm" },
+      { exercise: "Overhead Rope Extension", target: "Long Head Triceps", sets: "3", reps: "12", weight: "Light", tutorial: "assets/Overhead Rope Extension.webm" },
+      { exercise: "Incline Walk", target: "Cardio/Fat Loss", sets: "20-25 min", reps: "HR 130-145 bpm", weight: "5-6 km/h @ 10-12% incline", tutorial: "assets/incline walking.webm" }
     ]
   },
   {
     day: "Wednesday",
     focus: "Abs, back, biceps, forearms, cardio",
     tasks: [
-      { exercise: "Cable Crunch", target: "Upper Abs", sets: "3", reps: "15", weight: "20-30 kg", tutorial: "assets/Cable Crunch.gif" },
-      { exercise: "Hanging Leg Raise", target: "Lower Abs", sets: "3", reps: "10", weight: "BW", tutorial: "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenBoOW0zdzh4bjFhbTIxNmRwNTFuOGt3MXo4Z2Y4M2V6emp6anA5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HAuk68YCmu1bI4N8Km/giphy.gif" },
-      { exercise: "Russian Twist", target: "Obliques", sets: "3", reps: "20", weight: "5 kg plate", tutorial: "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWs4dXQ4Z3V0bGp6bG5ibG40eHVpbHoxNWlwMDNtdTY0ZzE1a3RyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DfeEVAQlxq2oWfq5f5/giphy.gif" },
-      { exercise: "Lat Pulldown", target: "Lats", sets: "4", reps: "10", weight: "35-45 kg", tutorial: "assets/Lat Pulldown.gif" },
-      { exercise: "Chest Supported Row", target: "Mid Back", sets: "3", reps: "10", weight: "Moderate", tutorial: "assets/Chest Supported Row.gif" },
-      { exercise: "Seated Cable Row", target: "Mid Back/Lats", sets: "3", reps: "12", weight: "Moderate", tutorial: "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjFxM3ZxeWs1am1yYnMzZGFmbzJoOTFwcW1kMXV1cHRiN3lmZnZzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/giKmFZqdd3YEuJYIuW/giphy.gif" },
-      { exercise: "Face Pull", target: "Rear Shoulders/Upper Back", sets: "4", reps: "15", weight: "Light", tutorial: "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXVua2RvZngxcjR4bGI5YTdvem45endxMnpqYjV5ejBqODRudnhsOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RtQGbdJmnbUktIPO9f/giphy.gif" },
-      { exercise: "Dumbbell Shrugs", target: "Traps", sets: "4", reps: "15", weight: "20 kg each", tutorial: "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnF2NXlnN3VxN2p0dXM4OXBiMTM1cHRwYWludTI1bnEyZXN6Zm5tZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FPG2RjjTFHjNdzzLaC/giphy.gif" },
-      { exercise: "EZ Bar Curl", target: "Biceps", sets: "3", reps: "12", weight: "20 kg", tutorial: "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWo4enNuNWkydThqdzhvbnViaW9tajd3enozMnY5N21qa201Zm03MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/e2FAiqJcnGgEwjNSJJ/giphy.gif" },
-      { exercise: "Hammer Curl", target: "Brachialis/Forearms", sets: "3", reps: "12", weight: "10-12.5 kg", tutorial: "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzlvd2p4Nmk4dnRyMHg5MWJ4eHd3bmYydzVoeWt4M3g4a250Mm91MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IgwPXREBJ7pF08yjii/giphy.gif" },
-      { exercise: "Reverse Curl (Forearms)", target: "Forearms", sets: "3", reps: "15", weight: "10-15 kg", tutorial: "assets/Reverse Curl.gif" },
-      { exercise: "Wrist Roller", target: "Forearms", sets: "3", reps: "Until failure", weight: "Moderate", tutorial: "assets/Wrist_Roller_Strengthening.gif" },
-      { exercise: "Incline Walk", target: "Cardio/Fat Loss", sets: "20-25 min", reps: "HR 130-145 bpm", weight: "Same", tutorial: "assets/incline walking.gif" }
+      { exercise: "Cable Crunch", target: "Upper Abs", sets: "3", reps: "15", weight: "20-30 kg", tutorial: "assets/Cable Crunch.webm" },
+      { exercise: "Hanging Leg Raise", target: "Lower Abs", sets: "3", reps: "10", weight: "BW", tutorial: "assets/Hanging Leg Raise.webm" },
+      { exercise: "Russian Twist", target: "Obliques", sets: "3", reps: "20", weight: "5 kg plate", tutorial: "assets/Russian Twist.webm" },
+      { exercise: "Lat Pulldown", target: "Lats", sets: "4", reps: "10", weight: "35-45 kg", tutorial: "assets/Lat Pulldown.webm" },
+      { exercise: "Chest Supported Row", target: "Mid Back", sets: "3", reps: "10", weight: "Moderate", tutorial: "assets/Chest Supported Row.webm" },
+      { exercise: "Seated Cable Row", target: "Mid Back/Lats", sets: "3", reps: "12", weight: "Moderate", tutorial: "assets/Seated Cable Row.webm" },
+      { exercise: "Face Pull", target: "Rear Shoulders/Upper Back", sets: "4", reps: "15", weight: "Light", tutorial: "assets/Face Pull.webm" },
+      { exercise: "Dumbbell Shrugs", target: "Traps", sets: "4", reps: "15", weight: "20 kg each", tutorial: "assets/Dumbbell Shrugs.webm" },
+      { exercise: "EZ Bar Curl", target: "Biceps", sets: "3", reps: "12", weight: "20 kg", tutorial: "assets/EZ Bar Curl.webm" },
+      { exercise: "Hammer Curl", target: "Brachialis/Forearms", sets: "3", reps: "12", weight: "10-12.5 kg", tutorial: "assets/Hammer Curl.webm" },
+      { exercise: "Reverse Curl (Forearms)", target: "Forearms", sets: "3", reps: "15", weight: "10-15 kg", tutorial: "assets/Reverse Curl.webm" },
+      { exercise: "Wrist Roller", target: "Forearms", sets: "3", reps: "Until failure", weight: "Moderate", tutorial: "assets/Wrist_Roller_Strengthening.webm" },
+      { exercise: "Incline Walk", target: "Cardio/Fat Loss", sets: "20-25 min", reps: "HR 130-145 bpm", weight: "Same", tutorial: "assets/incline walking.webm" }
     ]
   },
   {
     day: "Friday",
     focus: "Abs, legs, calves, cardio",
     tasks: [
-      { exercise: "Decline Sit-up", target: "Upper Abs", sets: "3", reps: "15", weight: "BW", tutorial: "assets/decline situp.gif" },
-      { exercise: "Cable Woodchopper", target: "Obliques", sets: "3", reps: "12/side", weight: "Light", tutorial: "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXF4c3c3YTlwa2lrMGNldWlzZ2s2NHY0dWFyaWc5dmsybTZmZm1pMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7b9b3NkJmADcdpK/giphy.gif" },
-      { exercise: "Plank", target: "Core", sets: "3", reps: "60 sec", weight: "BW", tutorial: "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzg3aGZ5MG9udGtvejFweHRyNHIycG0xbmhuMzV3MDU4bTB5b201ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZcteOOkovIh9HaVFjT/giphy.gif" },
-      { exercise: "Back Squat", target: "Quads/Glutes", sets: "4", reps: "8", weight: "40-50 kg", tutorial: "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9reTdseXZ2cGJvNmIycTZscWppa3gzbGR0NjI5NGpxcWgwbnRyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SO492RNU3htWaBeVaz/giphy.gif" },
-      { exercise: "Romanian Deadlift", target: "Hamstrings/Glutes", sets: "3", reps: "10", weight: "40 kg", tutorial: "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDRnd2VnejFremx3YzY5eDFoZHc4d2MwOWtzcDdlNjV2N3JxMXFxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0xenc4lKQlhf1Ohi/giphy.gif" },
-      { exercise: "Walking Lunges", target: "Quads/Glutes", sets: "3", reps: "20 steps", weight: "10 kg DBs", tutorial: "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjV0Mzd5aHhnbjV4MXRpNDJobnlpZWlkcWQ2YTg0azBubDd0dDVkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT8qBrjcngCsejZ0mA/giphy.gif" },
-      { exercise: "Leg Press", target: "Quads", sets: "3", reps: "12", weight: "Moderate", tutorial: "assets/leg press.gif" },
-      { exercise: "Leg Curl", target: "Hamstrings", sets: "3", reps: "15", weight: "Moderate", tutorial: "assets/leg curl" },
-      { exercise: "Standing Calf Raise", target: "Gastrocnemius", sets: "5", reps: "15", weight: "Heavy", tutorial: "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJzZnhtdHJjNDdvbHNtZ21neGV5dXlnbnVpMHlqcTR1YWkxeDN5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cGBbyHgaOfDfjyl41M/giphy.gif" },
-      { exercise: "Seated Calf Raise", target: "Soleus", sets: "3", reps: "20", weight: "Moderate", tutorial: "https://media.giphy.com/media/QGnkbezv5KaptMjqic/giphy.gif" },
-      { exercise: "Incline Walk", target: "Cardio/Fat Loss", sets: "25 min", reps: "HR 130-145 bpm", weight: "Same", tutorial: "assets/incline walking.gif" }
+      { exercise: "Decline Sit-up", target: "Upper Abs", sets: "3", reps: "15", weight: "BW", tutorial: "assets/decline situp.webm" },
+      { exercise: "Cable Woodchopper", target: "Obliques", sets: "3", reps: "12/side", weight: "Light", tutorial: "assets/Cable Woodchopper.webm" },
+      { exercise: "Plank", target: "Core", sets: "3", reps: "60 sec", weight: "BW", tutorial: "assets/Plank.webm" },
+      { exercise: "Back Squat", target: "Quads/Glutes", sets: "4", reps: "8", weight: "40-50 kg", tutorial: "assets/Back Squat.webm" },
+      { exercise: "Romanian Deadlift", target: "Hamstrings/Glutes", sets: "3", reps: "10", weight: "40 kg", tutorial: "assets/Romanian Deadlift.webm" },
+      { exercise: "Walking Lunges", target: "Quads/Glutes", sets: "3", reps: "20 steps", weight: "10 kg DBs", tutorial: "assets/Walking Lunges.webm" },
+      { exercise: "Leg Press", target: "Quads", sets: "3", reps: "12", weight: "Moderate", tutorial: "assets/leg press.webm" },
+      { exercise: "Leg Curl", target: "Hamstrings", sets: "3", reps: "15", weight: "Moderate", tutorial: "assets/leg curl.webm" },
+      { exercise: "Standing Calf Raise", target: "Gastrocnemius", sets: "5", reps: "15", weight: "Heavy", tutorial: "assets/Standing Calf Raise.webm" },
+      { exercise: "Seated Calf Raise", target: "Soleus", sets: "3", reps: "20", weight: "Moderate", tutorial: "assets/Seated Calf Raise.webm" },
+      { exercise: "Incline Walk", target: "Cardio/Fat Loss", sets: "25 min", reps: "HR 130-145 bpm", weight: "Same", tutorial: "assets/incline walking.webm" }
     ]
   },
   {
     day: "Forearms",
     focus: "Grip, wrist flexors, wrist extensors",
     tasks: [
-      { exercise: "Farmer's Walk", target: "Forearms/Grip/Traps", sets: "3", reps: "40 m", weight: "", tutorial: "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDY0bXgwd243MmdhaXR0OWo3ZTVka2NuY3M2YXg2eHBmNjVhOG82YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mxwiYkQRl36NPLLfoL/giphy.gif" },
-      { exercise: "Wrist Curl", target: "Forearm Flexors", sets: "3", reps: "20", weight: "", tutorial: "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXZ0dmh6eWoxZ2l4dHo1eWg3MGVvZm9qYm9wZmk1c2RzYmNub2M3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LhC8ml64RGFfW/giphy.gif" },
-      { exercise: "Reverse Wrist Curl", target: "Forearm Extensors", sets: "3", reps: "20", weight: "", tutorial: "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmMyOHFvcGN2OWZhdjdmOTJnb2x4a3FydWNyYWx4aHNsNG10NTA3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zyRa9KUB0W4P6/giphy.gif" },
-      { exercise: "Plate Pinch Hold", target: "Grip/Thumb", sets: "3", reps: "30 sec", weight: "", tutorial: "assets/PLATE_PINCH_HOLD.gif" },
-      { exercise: "Dead Hang", target: "Grip/Lats/Shoulders", sets: "3", reps: "Max time", weight: "", tutorial: "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG9oeXRzY200MG0xYmZwMDNvcGZoZ2lhN2JqbDk4OTJtdGVuMHpjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t6G4bFfrm2buzRLAT9/giphy.gif" }
+      { exercise: "Farmer's Walk", target: "Forearms/Grip/Traps", sets: "3", reps: "40 m", weight: "", tutorial: "assets/Farmer's Walk.webm" },
+      { exercise: "Wrist Curl", target: "Forearm Flexors", sets: "3", reps: "20", weight: "", tutorial: "assets/Wrist Curl.webm" },
+      { exercise: "Reverse Wrist Curl", target: "Forearm Extensors", sets: "3", reps: "20", weight: "", tutorial: "assets/Reverse Wrist Curl.webm" },
+      { exercise: "Plate Pinch Hold", target: "Grip/Thumb", sets: "3", reps: "30 sec", weight: "", tutorial: "assets/PLATE_PINCH_HOLD.webm" },
+      { exercise: "Dead Hang", target: "Grip/Lats/Shoulders", sets: "3", reps: "Max time", weight: "", tutorial: "assets/Dead Hang.webm" }
     ]
   }
 ];
@@ -82,7 +82,6 @@ const elements = {
   muscleStrip: document.querySelector("#muscleStrip"),
   toggleDone: document.querySelector("#toggleDone"),
   resetDay: document.querySelector("#resetDay"),
-  // Tutorial Modal Elements
   modal: document.querySelector("#tutorialModal"),
   tutorialImg: document.querySelector("#tutorialImg"),
   closeModal: document.querySelector("#closeModal")
@@ -107,7 +106,6 @@ function getTargets(workout) {
   return [...new Set(targets.map((target) => target.trim()).filter(Boolean))].slice(0, 8);
 }
 
-// Event Listener: Tabs
 elements.dayTabs.addEventListener("click", (event) => {
   const tab = event.target.closest("[data-day]");
   if (!tab) return;
@@ -115,7 +113,6 @@ elements.dayTabs.addEventListener("click", (event) => {
   render();
 });
 
-// Event Listener: Tasks (Complete toggle + Modal trigger)
 elements.taskList.addEventListener("click", (event) => {
   const button = event.target.closest("[data-complete]");
   if (button) {
@@ -139,7 +136,6 @@ elements.taskList.addEventListener("click", (event) => {
   }
 });
 
-// Modal Logic
 elements.closeModal.addEventListener("click", () => {
   elements.modal.style.display = "none";
   elements.tutorialImg.src = "";
